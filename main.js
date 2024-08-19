@@ -15,11 +15,11 @@ resultado”);
 
 const perguntas = [
 {
-enunciado: “O que é IA?”,
+enunciado: “Pergunta 1”,
 alternativas: [“Alternativa 1”, “Alternativa 2”],
 },
 {
-enunciado: “Pra que serve a IA?”,
+enunciado: “Pergunta 2”,
 alternativas: [“Alternativa 1”, “Alternativa 2”],
 },
 ];
