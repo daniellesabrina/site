@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Qual sua música preferida?",
+    enunciado: "Qual o seu cantor preferido?",
     alternativas: [
         {
             texto:"Alternativa 1",
