@@ -9,7 +9,7 @@ const perguntas = [
     enunciado: "Qual o seu cantor preferido?",
     alternativas: [
         {
-            texto:"Alternativa 1",
+            texto:"Bruno Mars",
             afirmacao: "Afirmação 1"
         },
         {
