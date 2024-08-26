@@ -10,7 +10,7 @@ const perguntas = [
     alternativas: [
         {
             texto:"Bruno Mars",
-            afirmacao: "Afirmação 1"
+            afirmacao: "When I Was Your Man"
         },
         {
         texto:"Alternativa 2",
