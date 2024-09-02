@@ -13,8 +13,8 @@ const perguntas = [
             afirmacao: "Maroon 5"
         },
         {
-        texto:"Alternativa 2",
-        afirmacao: "Afirmação 2"
+        texto:"Paint It Black",
+        afirmacao: "The Rolling Stones"
         }
     ]
 },
