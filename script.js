@@ -6,10 +6,10 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Qual o seu cantor preferido?",
+    enunciado: "Qual dessas músicas é a sua preferida?",
     alternativas: [
         {
-            texto:"Bruno Mars",
+            texto:"When I Was Your Man",
             afirmacao: "When I Was Your Man"
         },
         {
