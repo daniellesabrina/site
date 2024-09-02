@@ -9,11 +9,11 @@ const perguntas = [
     enunciado: "Qual dessas músicas é a sua preferida?",
     alternativas: [
         {
-            texto:"Sugar",
-            afirmacao: "Maroon 5"
+            texto:"Sugar - Maroon 5",
+            afirmacao: "POP"
         },
         {
-        texto:"Paint It Black",
+        texto:"Paint It Black - The Rolling Stones",
         afirmacao: "The Rolling Stones"
         }
     ]
